@@ -5,5 +5,6 @@
       * 
       * 
       */ 
-echo "Hello World";
+echo "Hello World\n";
+echo "And the ned of this patch for version 1\n";
 ?>
